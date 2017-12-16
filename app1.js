@@ -16,7 +16,7 @@ var puerto= 3000;
 var manejador =function (req,res)
 {
   res.writeHead(200);
- res.write("Hola mundo \n") ;
+ res.write("Hola mundo prueba 2\n") ;
   res.end();
 
 
