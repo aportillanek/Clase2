@@ -17,6 +17,7 @@ var manejador =function (req,res)
 {
   res.writeHead(200);
  res.write("Hola mundo prueba 2\n") ;
+ res.write("Autor Anthony Portilla") ;
   res.end();
 
 
